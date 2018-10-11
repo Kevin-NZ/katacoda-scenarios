@@ -1,1 +1,1 @@
-docker run -it centos /bin/bash
+docker pull centos
