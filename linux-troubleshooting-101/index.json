@@ -1,0 +1,39 @@
+{
+  "title": "Linux Troubleshooting 101",
+  "description": "Introduction to Troubleshooting issue in an Linux environment",
+  "difficulty": "beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [{
+      "title": "Instructions",
+      "text": "instructions.md"
+    },
+	{
+      "title": "Setup Environment",
+      "text": "setup.md"
+    }],
+    "intro": {
+	  "code": "setup.sh",
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "toolboxrc",
+          "target": "~/.toolboxrc"
+        }
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "coreos"
+  }
+}
