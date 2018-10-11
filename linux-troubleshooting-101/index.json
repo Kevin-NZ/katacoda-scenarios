@@ -13,7 +13,6 @@
       "text": "setup.md"
     }],
     "intro": {
-	  "code": "setup.sh",
       "text": "intro.md",
       "credits": ""
     },
@@ -24,7 +23,7 @@
       "client": [
         {
           "file": "toolboxrc",
-          "target": "~/.toolboxrc"
+          "target": "~/"
         }
       ]
     }
