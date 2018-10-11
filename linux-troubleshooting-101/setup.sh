@@ -1,1 +1,1 @@
-/usr/bin/toolbox
+docker run -it centos /bin/bash
