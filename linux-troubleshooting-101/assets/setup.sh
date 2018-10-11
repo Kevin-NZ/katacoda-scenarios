@@ -1,2 +1,1 @@
-/usr/bin/toolbox
-dnf -y install tcpdump sysstat lsof
+docker run -it centos /bin/bash
