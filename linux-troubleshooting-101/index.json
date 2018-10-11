@@ -22,7 +22,7 @@
     "assets": {
       "client": [
         {
-          "file": "toolboxrc",
+          "file": ".toolboxrc",
           "target": "~/"
         }
       ]
