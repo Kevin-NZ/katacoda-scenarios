@@ -20,10 +20,14 @@
       "text": "finish.md"
     },
     "assets": {
-      "host01": [
+      "client": [
         {
           "file": ".toolboxrc",
           "target": "~/"
+        },
+        {
+          "file": ".toolboxrc",
+          "target": "/home/core/"
         }
       ]
     }
