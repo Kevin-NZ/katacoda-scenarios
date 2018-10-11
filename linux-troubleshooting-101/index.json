@@ -26,8 +26,8 @@
           "target": "~/"
         },
         {
-          "file": ".toolboxrc",
-          "target": "/home/core/"
+          "file": "toolbox",
+          "target": "/etc/default/"
         }
       ]
     }
