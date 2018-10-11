@@ -9,14 +9,16 @@
       "credits": "",
 	  "courseData": "setup.sh"
     },
-    "steps": [{
-      "title": "Instructions",
-      "text": "instructions.md"
-    },
-	{
-      "title": "Setup Environment",
-      "text": "setup.md"
-    }],
+    "steps": [
+	  {
+        "title": "Instructions",
+        "text": "instructions.md"
+      },
+	  {
+        "title": "Setup Environment",
+        "text": "setup.md"
+      }
+	],
     "finish": {
       "text": "finish.md"
     },
