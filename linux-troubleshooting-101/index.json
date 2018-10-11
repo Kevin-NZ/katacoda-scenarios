@@ -7,7 +7,8 @@
     "intro": {
       "text": "intro.md",
       "credits": "",
-	  "code": "setup.sh"
+	  "courseData": "setup.sh",
+	  "code": "code.sh"
     },
     "steps": [{
       "title": "Instructions",
@@ -39,7 +40,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+    "uimessage1": "\u001b[32mPlease wait while a CentOS system is deployed...\u001b[m\r\n"
   },
   "backend": {
     "imageid": "docker"
