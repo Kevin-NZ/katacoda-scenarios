@@ -1,1 +1,1 @@
-docker pull centos
+docker pull centos > /tmp/bob 2>&1
