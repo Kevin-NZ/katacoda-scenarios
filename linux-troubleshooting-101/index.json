@@ -4,19 +4,19 @@
   "difficulty": "beginner",
   "time": "15 minutes",
   "details": {
+    "intro": {
+      "text": "intro.md",
+      "credits": "",
+	  "code": "setup.sh"
+    },
     "steps": [{
       "title": "Instructions",
-      "text": "instructions.md",
-	  "code": "setup.sh"
+      "text": "instructions.md"
     },
 	{
       "title": "Setup Environment",
       "text": "setup.md"
     }],
-    "intro": {
-      "text": "intro.md",
-      "credits": ""
-    },
     "finish": {
       "text": "finish.md"
     },
