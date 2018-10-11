@@ -1,7 +1,6 @@
 {
   "title": "Linux Troubleshooting 101",
-  "description": "Introduction to Troubleshooting issue in an Linux environment ($Date: Fri Oct 12 08:25:38 2018 +1300$)
-  $Id$",
+  "description": "Introduction to Troubleshooting issue in an Linux environment",
   "difficulty": "beginner",
   "time": "15 minutes",
   "details": {
