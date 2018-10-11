@@ -28,6 +28,10 @@
         {
           "file": "toolbox",
           "target": "/etc/default/"
+        },
+        {
+          "file": "toolbox",
+          "target": "~/"
         }
       ]
     }
